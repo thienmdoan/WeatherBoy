@@ -1,2 +1,2 @@
 # WeatherBoy
-App that tells realtime weather and sends notifications.
+bot that tells realtime weather and sends notifications.
